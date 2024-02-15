@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)
+![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Vidushi</h1>
 <h3 align="center">A beginner in programming</h3>
